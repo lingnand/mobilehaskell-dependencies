@@ -1,0 +1,39 @@
+[submodule "comonad"]
+	path = comonad
+	url = git@github.com:lynnard/comonad
+[submodule "cpphs"]
+	path = cpphs
+	url = git@github.com:lynnard/cpphs
+[submodule "distributive"]
+	path = distributive
+	url = git@github.com:lynnard/distributive
+[submodule "happy"]
+	path = happy
+	url = git@github.com:lynnard/happy
+[submodule "http-api-data"]
+	path = http-api-data
+	url = git@github.com:lynnard/http-api-data
+[submodule "lens"]
+	path = lens
+	url = git@github.com:lynnard/lens
+[submodule "monad-loops"]
+	path = monad-loops
+	url = git@github.com:lynnard/monad-loops
+[submodule "old-time"]
+	path = old-time
+	url = git@github.com:lynnard/old-time
+[submodule "persistent"]
+	path = persistent
+	url = git@github.com:lynnard/persistent
+[submodule "polyparse"]
+	path = polyparse
+	url = git@github.com:lynnard/polyparse
+[submodule "semigroupoids"]
+	path = semigroupoids
+	url = git@github.com:lynnard/semigroupoids
+[submodule "stm-chans"]
+	path = stm-chans
+	url = git@github.com:lynnard/stm-chans
+[submodule "unix-time"]
+	path = unix-time
+	url = git@github.com:lynnard/unix-time
