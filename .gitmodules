@@ -7,9 +7,6 @@
 [submodule "distributive"]
 	path = distributive
 	url = git@github.com:lynnard/distributive
-[submodule "happy"]
-	path = happy
-	url = git@github.com:lynnard/happy
 [submodule "lens"]
 	path = lens
 	url = git@github.com:lynnard/lens
@@ -22,3 +19,18 @@
 [submodule "semigroupoids"]
 	path = semigroupoids
 	url = git@github.com:lynnard/semigroupoids
+[submodule "dependent-sum"]
+	path = dependent-sum
+	url = git@github.com:lynnard/dependent-sum
+[submodule "process"]
+	path = process
+	url = git@github.com:lynnard/process
+[submodule "haskell-src-exts"]
+	path = haskell-src-exts
+	url = git@github.com:lynnard/haskell-src-exts
+[submodule "dependent-map"]
+	path = dependent-map
+	url = git@github.com:lynnard/dependent-map
+[submodule "beam"]
+	path = beam
+	url = git@github.com:lynnard/beam
