@@ -34,3 +34,6 @@
 [submodule "beam"]
 	path = beam
 	url = git@github.com:lynnard/beam
+[submodule "stm-chans"]
+	path = stm-chans
+	url = git@github.com:lynnard/stm-chans
